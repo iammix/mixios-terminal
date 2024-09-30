@@ -39,7 +39,7 @@ const Projects: React.FC = () => {
   ) : (
     <div data-testid="projects">
       <ProjectsIntro>
-        TODO: A list of selected projects will be displayed here
+        TODO: A list of selected projects will be displayed hereios
       </ProjectsIntro>
       {projects.map(({ id, title, desc }) => (
         <ProjectContainer key={id}>

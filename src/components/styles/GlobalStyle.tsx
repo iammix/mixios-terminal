@@ -3,6 +3,18 @@ import { normalize } from "styled-normalize";
 
 const GlobalStyle = createGlobalStyle<{ theme: DefaultTheme }>`
   ${normalize}
+  @font-face {
+  font-family: 'Millennium';
+  src: url('/src/assets/fonts/Millennium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  }
+  @font-face {
+    font-family: 'Millennium';
+    src: url('/src/assets/fonts/Millennium-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
   
   *, ::before, ::after {
     border-width: 0;
@@ -26,7 +38,7 @@ const GlobalStyle = createGlobalStyle<{ theme: DefaultTheme }>`
   }
 
   body {
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Millennium', monospace;
     font-weight: 500;
     background-color: ${({ theme }) => theme.colors?.body};
     color: ${({ theme }) => theme.colors?.text[100]};
