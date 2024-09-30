@@ -5,13 +5,13 @@ const GlobalStyle = createGlobalStyle<{ theme: DefaultTheme }>`
   ${normalize}
   @font-face {
   font-family: 'Millennium';
-  src: url('/src/assets/fonts/Millennium.ttf') format('truetype');
+  src: url('/assets/fonts/Millennium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   }
   @font-face {
     font-family: 'Millennium';
-    src: url('/src/assets/fonts/Millennium-Bold.ttf') format('truetype');
+    src: url('/assets/fonts/Millennium-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
   }
