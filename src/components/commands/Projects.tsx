@@ -52,13 +52,13 @@ const Projects: React.FC = () => {
   );
 };
 
-const projects = [];
-//   {
-//     id: 1,
-//     title: "Sat Naing's Blog",
-//     desc: "My personal blog where I can write down my thoughts and experiences.",
-//     url: "https://satnaing.dev/blog/",
-//   },
-// ];
+const projects = [
+  {
+    id: 1,
+    title: "Test Title",
+    desc: "Here is going to be a short description of the project",
+    url: "github url link",
+  },
+]
 
 export default Projects;
