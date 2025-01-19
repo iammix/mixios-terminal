@@ -20,16 +20,12 @@ const Education: React.FC = () => {
 
 const eduBg = [
   {
+    title: "MSc., Structural Engineering",
+    desc: "Aristotle University of Thessaloniki, Greece | 2018 ~ 2019",
+  },
+  {
     title: "Integrated Master, Civil Engineering",
     desc: "Aristotle University of Thessaloniki, Greece | 2013 ~ 2018",
-  },
-  {
-    title: "MSc., Structural Engineering",
-    desc: "Aristotle University of Thessaloniki, Greece | 2018 - 2019",
-  },
-  {
-    title: "Invited Researcher, Civil Engineering",
-    desc: "University of Toronto, Canada | Jun. 2019 - Dec. 2019",
   },
 ];
 
