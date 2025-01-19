@@ -13,8 +13,8 @@ const Welcome: React.FC = () => {
   return (
     <HeroContainer data-testid="welcome">
       <div className="info-section">
-        <Seperator>----</Seperator>
-        <div>Welcome to my terminal portfolio. (Version 1.3.1)</div>
+        <Seperator></Seperator>
+        <div>Welcome to my terminal.</div>
         <Seperator></Seperator>
         <div>
           For a list of available commands, type `<Cmd>help</Cmd>`.
