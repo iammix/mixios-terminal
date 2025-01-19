@@ -28,8 +28,8 @@ type Command = {
 
 export const commands: Command = [
   { cmd: "about", desc: "about Konstantinos Mixios", tab: 8 },
-  { cmd: "clear", desc: "clear the terminal", tab: 8 },
-  { cmd: "experience", desc: "my work experience", tab: 9},
+  { cmd: "clear", desc: "clear the terminal", tab: 6 },
+  { cmd: "experience", desc: "my work experience", tab: 10},
   //{ cmd: "echo", desc: "print out anything", tab: 9 },
   { cmd: "education", desc: "my education background", tab: 4 },
   { cmd: "email", desc: "send an email to me", tab: 8 },
