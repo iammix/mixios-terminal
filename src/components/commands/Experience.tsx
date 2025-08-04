@@ -21,10 +21,16 @@ const Experience: React.FC = () => {
 
 const experienceBg = [
   {
+    title: "Senior Data Engineer",
+    desc: "LeadInfo B.V., Rotterdam, Netherlands",
+    from: "August 2025",
+    until: "present"
+  },
+  {
     title: "Software Engineer",
     desc: "Working as a freelancer software engineer, for Research Programs and Companies based in Greece.",
     from: "January 2020",
-    until: "present"
+    until: "July 2025"
   },
   {
     title: "Invited Researcher",
