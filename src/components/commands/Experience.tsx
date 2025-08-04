@@ -23,7 +23,7 @@ const experienceBg = [
   {
     title: "Senior Data Engineer",
     desc: "LeadInfo B.V., Rotterdam, Netherlands",
-    from: "August 2025",
+    from: "July 2025",
     until: "present"
   },
   {
