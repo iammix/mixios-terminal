@@ -14,6 +14,9 @@ const About: React.FC = () => {
         I'm <HighlightAlt>a Data Engineer and Full-Stack Developer</HighlightAlt>, with back-end focus!
       </p>
       <p>
+        Currently working as a <HighlightSpan>Data Engineer</HighlightSpan> at {"Leadinfo B.V."}
+          </p>
+      <p>
         Passionate about giving solutions to real-life challenges and problems. <br />
       </p>
     </AboutWrapper>
