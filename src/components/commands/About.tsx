@@ -11,7 +11,7 @@ const About: React.FC = () => {
         Hi there, my name is <HighlightSpan>Konstantinos Mixios</HighlightSpan>!
       </p>
       <p>
-        I'm <HighlightAlt>a Software Engineer, Full-Stack Developer</HighlightAlt>, with back-end focus!
+        I'm <HighlightAlt>a Data Engineer and Full-Stack Developer</HighlightAlt>, with back-end focus!
       </p>
       <p>
         Passionate about giving solutions to real-life challenges and problems. <br />
