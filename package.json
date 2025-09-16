@@ -48,7 +48,7 @@
     "prettier": "^2.8.8",
     "typescript": "^5.0.4",
     "vite": "^4.5.3",
-    "vite-plugin-pwa": "^0.14.7",
+    "vite-plugin-pwa": "^0.21.1",
     "vitest": "^0.31.1"
   },
   "lint-staged": {
